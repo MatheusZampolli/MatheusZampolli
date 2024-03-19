@@ -33,14 +33,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/MatheusZampolli/MatheusZampolli/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/MatheusZampolli/count.svg?"  />
-</div>
+<img align="right" src="https://profile-counter.glitch.me/MatheusZampolli/count.svg?"  />
 
 ###
