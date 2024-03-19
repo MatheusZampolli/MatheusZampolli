@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">HI, My name is Matheus Zampolli, I'm Computer Enginner and Data Analytics</h2>
+<h2 align="center">HI, My name is Matheus Zampolli, I'm Computer Enginner and Data analyst</h2>
 
 ###
 
